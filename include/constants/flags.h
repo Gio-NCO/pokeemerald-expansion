@@ -657,9 +657,9 @@
 #define FLAG_HIDDEN_ITEM_ROUTE_105_BIG_PEARL                 (FLAG_HIDDEN_ITEMS_START + 0x6F)
 
 #define FLAG_EXP_SHARE_TOGGLE  0x264 // Exp Share Gen6+
-#define FLAG_UNUSED_0x265  0x265 // Unused Flag
-#define FLAG_UNUSED_0x266  0x266 // Unused Flag
-#define FLAG_UNUSED_0x267  0x267 // Unused Flag
+#define FLAG_UNUSED_0x265  0x265 // DN_FLAG_SEARCHING
+#define FLAG_UNUSED_0x266  0x266 // DN_FLAG_DEXNAV_GET
+#define FLAG_UNUSED_0x267  0x267 // DN_FLAG_DETECTOR_MODE
 #define FLAG_UNUSED_0x268  0x268 // Unused Flag
 #define FLAG_UNUSED_0x269  0x269 // Unused Flag
 #define FLAG_UNUSED_0x26A  0x26A // Unused Flag

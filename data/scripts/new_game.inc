@@ -113,6 +113,9 @@ EventScript_ResetAllBerries::
 	return
 
 EventScript_ResetAllMapFlags::
+	setflag FLAG_UNUSED_0x265
+	setflag FLAG_UNUSED_0x266
+	setflag FLAG_UNUSED_0x267
 	setflag FLAG_HIDE_CONTEST_POKE_BALL
 	setflag FLAG_HIDE_ROUTE_111_VICTORIA_WINSTRATE
 	setflag FLAG_HIDE_ROUTE_111_VIVI_WINSTRATE
